@@ -1,0 +1,40 @@
+@media only screen and (min-width: 768px) {
+        body {
+      font-size: 16px;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+    body {
+      font-size: 14px;
+    }
+  }
+  
+
+.imag{
+    height: 300px;
+    width: 400px;
+    border: 2px solid;
+    border-radius: 15px;
+}
+
+.stl{
+    font-family: 'Chiller', cursive;
+}
+
+#fs{
+    height: 50%;
+    width: 50%;
+}
+#tbl{
+    border: 2px solid black;
+    border-width: 3px;
+    text-align: center;
+    width: 25%;
+}
+.tdb{
+    border: 2px solid black;
+}
+.mid {
+    text-decoration: none;
+    color: inherit;
+  }
